@@ -1,0 +1,5 @@
+<!-- <app-file-upload [validUploadRules]="uploadValidation" (fileChange)="onFileUploading($event)" (onUploadErr)="onUploadErr($event)"></app-file-upload> -->
+<app-json-to-csv [json]="_json" [csvHeaders]="csvHeaders" [expFileName]="'Company details'">
+    <button>Export to CSV</button>
+</app-json-to-csv>
+<!-- <router-outlet></router-outlet> -->
