@@ -47,4 +47,4 @@ Following are the inputs which we have to provide
 
 ## Demo
 
-Please find the demo in `stackblitz` i.e `https://angular-y82yzj.stackblitz.io/`
+Please find the demo on `stackblitz` i.e `https://angular-y82yzj.stackblitz.io/`
